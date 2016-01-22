@@ -1,0 +1,2 @@
+# rewsha
+Simple Django Blog
