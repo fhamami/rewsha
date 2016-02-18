@@ -1,3 +1,5 @@
+Very Simple Django
+
 TECHNOLOGY STACK
 ---------------
 - Django==1.9.1
